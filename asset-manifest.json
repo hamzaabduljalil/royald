@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "/royald/static/css/main.744e7584.css",
-    "main.js": "/royald/static/js/main.55095a9b.js",
+    "main.css": "/royald/static/css/main.a2f04783.css",
+    "main.js": "/royald/static/js/main.bc2300e9.js",
     "static/js/453.6d8325f9.chunk.js": "/royald/static/js/453.6d8325f9.chunk.js",
     "static/media/image3.jpg": "/royald/static/media/image3.7a8a7313820337c4ca79.jpg",
     "static/media/image2.jpg": "/royald/static/media/image2.faaf1dd7165c2ecf7456.jpg",
     "static/media/image1.jpg": "/royald/static/media/image1.ee299474a7dcbb653b7d.jpg",
-    "static/media/b8-architecture-contact-image.jpg": "/royald/static/media/b8-architecture-contact-image.debc9c709ba12d027c29.jpg",
-    "static/media/ceo.jpg": "/royald/static/media/ceo.3a0e56071610742389b7.jpg",
-    "static/media/24.jpg": "/royald/static/media/24.c004b1da7a01f38b11fc.jpg",
-    "static/media/b8-the-team-marino-banon.jpg": "/royald/static/media/b8-the-team-marino-banon.e859e45b4f18b66784b4.jpg",
-    "static/media/23.jpg": "/royald/static/media/23.93317ce8239503380245.jpg",
     "static/media/logo1.png": "/royald/static/media/logo1.10c39e40fef6470cc122.png",
     "static/media/footer.svg": "/royald/static/media/footer.f9bd9b1e2a44bc1dbc1ac83fda679c1e.svg",
     "index.html": "/royald/index.html",
-    "main.744e7584.css.map": "/royald/static/css/main.744e7584.css.map",
-    "main.55095a9b.js.map": "/royald/static/js/main.55095a9b.js.map",
+    "main.a2f04783.css.map": "/royald/static/css/main.a2f04783.css.map",
+    "main.bc2300e9.js.map": "/royald/static/js/main.bc2300e9.js.map",
     "453.6d8325f9.chunk.js.map": "/royald/static/js/453.6d8325f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.744e7584.css",
-    "static/js/main.55095a9b.js"
+    "static/css/main.a2f04783.css",
+    "static/js/main.bc2300e9.js"
   ]
 }
